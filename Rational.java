@@ -4,9 +4,6 @@
 
 // Create Java class Rational, which will be used to represent rational numbers. (Recall that a rational number is one that may be expressed as p/q, where p and q are both integers and q is not zero.)
 
-// Incorporate the attributes and methods below. (Phases are suggested as development approach.)
-// Write a main method to test each of these methods.
-
 public class Rational{
 // Phase I:
 // Instance variables 
